@@ -58,4 +58,4 @@ Files you may copy include:
     fd1d.jpg    a JPEG file containing an image of the u and v components of the solution generated from fd1d.m.
     copyright.txt    PRED_PREY_SIM copyright details.
 
-PRED_PREY_SIM_FD2D is distributed under the GNU GPL; see the mycopyright.txt file for more information.
+PRED_PREY_SIM_FD2D is distributed under the GNU GPL; see the copyright.txt file for more information.
