@@ -10,7 +10,7 @@ Marcus R. Garvie. (2022). mgarvie/PRED_PREY_SIM_FD1D: Initial release (v1.0.0). 
 
 ## General Decsription:
 
-PRED_PREY_SIM_FD1D is a collection of simple MATLAB routines using finite element / difference methods for simulating the dynamics of predator-prey interactions in 1 spatial dimension modelled by nonlinear reaction-diffusion systems. 
+PRED_PREY_SIM_FD1D is a collection of simple MATLAB routines using finite element / difference methods for simulating the dynamics of predator-prey interactions in one spatial dimension and time modelled by nonlinear reaction-diffusion systems. 
 
 The MATLAB code is mostly self explanatory, with the names of variables and parameters corresponding to the symbols used in the finite element / difference methods described in the paper referenced below. 
 
