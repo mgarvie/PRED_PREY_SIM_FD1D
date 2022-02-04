@@ -4,10 +4,6 @@ PRED_PREY_SIM_FD1D is a collection of MATLAB codes for simulating Predator-Prey 
 
 [![DOI](https://zenodo.org/badge/139026916.svg)](https://zenodo.org/badge/latestdoi/139026916)
 
-## Cite as:
-
-Marcus R. Garvie. (2022). mgarvie/PRED_PREY_SIM_FD1D: Initial release (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5963689
-
 ## General Decsription:
 
 PRED_PREY_SIM_FD1D is a collection of simple MATLAB routines using finite element / difference methods for simulating the dynamics of predator-prey interactions in one spatial dimension and time modelled by nonlinear reaction-diffusion systems. 
